@@ -1,0 +1,135 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+  }
+  .head{
+    color:#fff;
+
+  }
+  .first{
+    background-image: url(./hero-bg.jpg);
+    height: 800px;
+    width:100%;
+    margin-bottom:45px;
+    background-attachment: fixed;
+  }
+  
+  
+ 
+
+  
+  .btn1{
+    color: #444444;
+   background-color:white;
+    width:15vw;
+    border-radius:7px;
+    border: none;
+    text-align: start;
+    
+  }
+
+  .btn2{
+    color:white;
+   background-color:#fd680e;;
+    width:15vw;
+    border-radius:7px;
+    border: none;
+    text-align: center;
+    
+  }
+
+  /*----------------2nd section-----------*/
+  .img-div{
+    width: 500px;
+    height: 400px;
+   
+  }
+  ul{
+    list-style-type: none;
+
+  }
+
+  
+
+/*----------------card section---------*/
+  .card{
+    color: white;
+    border: 2px solid gray;
+    border-radius: 2px;
+    margin-left: 90px;
+    margin-top: 30px;
+  }
+  .card-title{
+    text-align: center;
+
+  }
+
+  .card-sec{
+    background-color:oldlace;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .imgs{
+    height: 300px;
+    width: 300px;
+  }
+  .imgs:hover{
+ transition: all 1.s;
+  
+  }
+
+
+  /*--------frequently asked question-----*/
+
+  .accordion-ho:hover{
+    color: #ff8f4c;
+  text-decoration: none;
+  }
+  .clr{
+    color: #444444;
+  }
+  .containers{
+    text-align: center;
+    margin-top: 40px;
+  }
+  /*-----contact section------*/
+  .contact-sec{
+    padding-left: 100px;
+    margin-top: 30px;
+    background-color:oldlace;
+
+  }
+  .btn3{
+    color: white;
+    background-color:#fd680e;
+    border: none;
+    width: 10vw;
+  }
+  .ico-clr{
+    color: #ff8f4c;
+    font-size: 30px;
+  }
+  .contact-div{
+    padding-right:50px ;
+  }
+  .contact-head{
+    margin-left: 120px;
+  }
+
+  .frm{
+    width: 100%;
+    padding-left: 40px;
+  }
+  .clr{
+    gap:5px;
+    color: rgba(75, 40, 19, 0.9);
+    font-size: 30px;
+  }
+  .footer{
+    background-color: rgba(75, 40, 19, 0.9);
+    height:120px;
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+  }
