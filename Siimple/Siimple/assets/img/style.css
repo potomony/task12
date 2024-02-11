@@ -32,7 +32,7 @@ body {
 
   .btn2{
     color:white;
-   background-color:#fd680e;;
+   background-color:#fd680e;
     width:15vw;
     border-radius:7px;
     border: none;
@@ -49,6 +49,11 @@ body {
   ul{
     list-style-type: none;
 
+  }
+  .ico-clrs{
+    color:#fd680e ;
+    font-size: 15px;
+    margin-right: 5px;
   }
 
   
@@ -93,13 +98,18 @@ body {
   }
   .containers{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 80px;
+  }
+
+  .pic-head{
+    margin-left: 350px;
   }
   /*-----contact section------*/
   .contact-sec{
     padding-left: 100px;
     margin-top: 30px;
     background-color:oldlace;
+
 
   }
   .btn3{
@@ -116,7 +126,7 @@ body {
     padding-right:50px ;
   }
   .contact-head{
-    margin-left: 160px;
+    margin-left: 350px;
   }
   .input{
     width:70%;
