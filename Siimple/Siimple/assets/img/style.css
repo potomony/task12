@@ -118,6 +118,11 @@ body {
   .contact-head{
     margin-left: 160px;
   }
+  .input{
+    width:70%;
+    border: none;
+   
+  }
   
 
   .frm{
